@@ -44,6 +44,12 @@ Small animation:
 ![preview_640x320px_border](https://github.com/upiir/arduino_oled_save_image/assets/117754156/88936faa-b79a-4743-977e-eb6943e654e7)
 
 
+Another small animation:
+
+![gauge_preview_gif](https://github.com/upiir/arduino_oled_save_image/assets/117754156/bca39cd4-36e0-4b94-825c-3fbb8442fc90)
+
+
+
 
 Screenshots from the video:
 
