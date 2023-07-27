@@ -7,6 +7,8 @@
 
 
 
+![THUMB_arduino_save_image_from_oled2](https://github.com/upiir/arduino_oled_save_image/assets/117754156/cea53e9c-2851-4d50-8848-44f7b121a031)
+
 
 Links from the video:
 - 128x64 SSD1306 OLED Display: https://s.click.aliexpress.com/e/_DCKdvnh
@@ -34,7 +36,7 @@ Related videos with Arduino UNO and 128x64 OLED screen:
 - Smaller & Faster Arduino - https://youtu.be/4GfPQoIRqW8
 
 
-![THUMB_arduino_save_image_from_oled2](https://github.com/upiir/arduino_oled_save_image/assets/117754156/cea53e9c-2851-4d50-8848-44f7b121a031)
+
 
 
 Small animation:
